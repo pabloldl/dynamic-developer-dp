@@ -17,7 +17,6 @@ const projects: Project[] = [
     github: "#",
   },
   {
-    //api rest inventario
     title: "API REST de Inventario",
     description:
       "Backend para la gestión de inventario de productos con autenticación JWT y operaciones CRUD completas.",
